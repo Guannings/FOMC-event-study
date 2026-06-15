@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+.env
+
+# R
+.Rhistory
+.RData
+.Ruserdata
+*.Rproj
+
+# SAS
+*.lst
+*.log
+sashtml*.png
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# LaTeX build artefacts (if someone re-renders paper.pdf locally)
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+*.fdb_latexmk
+*.fls
+*.bbl
+*.blg
