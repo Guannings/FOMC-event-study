@@ -411,7 +411,7 @@ version:
 **1. Educational Purpose Only**
 
 This software is for educational and research purposes only and was developed
-as a final project for an Investments course by PARVAUX, a Public Finance
+as a final project for an Investments course by PARVAUX, a Public Finance and Economics double
 major at National Chengchi University (NCCU). It is not intended to be a
 source of financial advice, and the author is not a registered financial
 advisor or licensed securities professional. The event-study methodology
